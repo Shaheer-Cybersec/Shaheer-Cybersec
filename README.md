@@ -127,7 +127,7 @@ The following projects are currently being developed and will be published progr
 
 TryHackMe Progress:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Red%20Team%20Path-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Red%20Team%20Path-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cicada664)
 
 ---
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-cicada664-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/cicada664)
