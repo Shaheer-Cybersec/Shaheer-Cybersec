@@ -1,153 +1,173 @@
-# Shaheer Hussain (Cicada)
+# Shaheer Hussain | Cybersecurity Analyst & AI Developer
 
-## Cybersecurity Analyst | Offensive Security | SOC | Ethical Hacker
+**Offensive Security + Intelligent Automation**
 
-Focused on practical cybersecurity with strong interest in offensive security, detection engineering, and adversary simulation.
+Building AI-powered security tools while practicing penetration testing and threat detection. Currently executing a [90-day public build plan](https://github.com/Shaheer-Cybersec/ai-cybersecurity-journey) to ship 10+ projects at the intersection of both disciplines.
 
-Currently building hands-on expertise in penetration testing, red teaming methodologies, and blue team defensive monitoring.
-
----
-
-## Professional Summary
-
-Cybersecurity practitioner actively developing real-world skills across offensive and defensive domains. Strong foundation in API security testing, vulnerability assessment, network reconnaissance, and SIEM-based monitoring.
-
-Dedicated to mastering adversary tactics (MITRE ATT&CK), Active Directory exploitation, log analysis, and detection engineering.
-
-Primary focus areas:
-- Web Application & API Security
-- Active Directory Attacks
-- SIEM Monitoring & Threat Detection
-- Red Team Methodologies
-- Practical Lab-Based Learning
+🔗 **All platforms:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)  
+🎯 **TryHackMe:** Top 5% | 110+ rooms | 16 badges  
+📍 **Based in:**  Pakistan | Open to remote work
 
 ---
 
-## Certifications & Learning Path
+## 🤖 AI Security Tools
 
-### Completed
-- API Penetration Testing Certification – ApiSec University
+### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) — Week 2 Project
+**LangChain • Ollama (Llama 3.1) • 100% Local**
 
-### In Progress
-- Certified Ethical Hacker (CEH)
-- eJPT (eLearnSecurity Junior Penetration Tester)
+Query security logs in natural language. Ask "Show failed SSH attempts from China in last hour" and get instant threat analysis. Built for SOC teams who need fast log triage without cloud dependencies.
 
-### Upcoming
-- CRTA (Certified Red Team Analyst)
+**Key Features:**
+- Natural language log queries
+- Threat severity scoring
+- Zero API costs (local Ollama)
+- Privacy-first (no data leaves your network)
 
-### Continuous Training
-- Active TryHackMe Red Team Path (Hands-on labs & attack simulations)
+```python
+# Talk to your logs like a SOC analyst
+"Identify brute force patterns in authentication logs"
+"Summarize critical security events from last 24 hours"
+"Find lateral movement indicators"
+```
 
 ---
 
-## Technical Skills
+### [Security News Aggregator](https://github.com/Shaheer-Cybersec/security-news-aggregator-n8n) — Week 1 Project
+**n8n • CISA KEV API • Slack Integration**
+
+Automated CISA Known Exploited Vulnerabilities monitoring. Pulls CVEs by severity, filters noise, delivers actionable intel to Slack. Set it and forget it.
+
+---
+
+### [ReconX](https://github.com/Shaheer-Cybersec/ReconX) — OWASP Top 10 Scanner
+**Python • MIT Licensed**
+
+Automated web application reconnaissance and vulnerability scanner for penetration testing workflows. Streamlines initial recon phase.
+
+---
+
+## 🔒 Offensive Security Work
+
+### [EULE-IDPS](https://github.com/Shaheer-Cybersec/EULE-IDPS) — Network Intrusion Detection
+**Wazuh • Snort • Real-time Monitoring**
+
+Intrusion detection and prevention system developed as final year project. Real-time network monitoring with custom detection rules.
+
+---
+
+### [Active Directory Lab](https://github.com/Shaheer-Cybersec/Active-Directory-Lab)
+**Windows Server • Kali Linux • MITRE ATT&CK**
+
+Simulated enterprise AD environment for practicing:
+- Kerberoasting
+- Pass-the-Hash attacks
+- Golden Ticket attacks
+- Lateral movement techniques
+- MITRE ATT&CK mapping
+
+20+ commits documenting attack chains and defensive countermeasures.
+
+---
+
+### [Splunk SOC Detection Lab](https://github.com/Shaheer-Cybersec/splunk-soc-detection-lab)
+**Splunk SIEM • Custom Detection Rules**
+
+Built custom detection rules for common attack patterns. Hands-on SIEM work simulating SOC analyst workflows.
+
+---
+
+### [Network Enumeration Lab](https://github.com/Shaheer-Cybersec/network-enumeration-lab)
+**Kali Linux • Metasploitable • Penetration Testing**
+
+Practicing reconnaissance, scanning, and exploitation techniques in controlled environment.
+
+---
+
+## 💼 Professional Background
+
+**6-7 years practical cybersecurity experience:**
+
+- **Cybersecurity Analyst/Pentesting Intern** — Sybrid (Lakson Group)  
+  Vulnerability assessments, penetration testing, security documentation
+  
+- **IT Security Consultant** — iCase  
+  Security audits and compliance assessments
+  
+- **Cybersecurity Instructor** — Tutor-ESA  
+  Taught CEH certification prep to US-based students
+
+---
+
+## 🎓 Credentials
+
+**Active Certifications:**
+- ISC2 Certified in Cybersecurity (CC)
+- APIsec University — API Penetration Testing
+
+**In Progress:**
+- Certified Ethical Hacker (CEH) v13
+- eLearnSecurity Junior Penetration Tester (eJPT)
+
+**Training Platforms:**
+- **TryHackMe:** Top 5% global ranking | 110+ rooms completed | Red Team learning path
+- **HackTheBox:** Active offensive security path
+
+---
+
+## 🛠️ Technical Stack
+
+### AI & Automation
+**LangChain** • **LangGraph** • **Ollama** • **Python** • **Claude API** • **n8n** • **Docker**
 
 ### Offensive Security
-- Nmap
-- Burp Suite
-- Metasploit Framework
-- OWASP Top 10 Testing
-- API Security Testing
-- Manual Exploitation Techniques
-- Enumeration & Reconnaissance
+**Burp Suite** • **Metasploit** • **Nmap** • **Wireshark** • **Kerberos attacks** • **API testing** • **Active Directory exploitation**
 
-### Blue Team / SOC
-- Log Analysis
-- SIEM Fundamentals
-- Basic Threat Hunting
-- Incident Triage
-- Network Traffic Analysis
+### Detection & Defense
+**Splunk** • **Wazuh** • **Snort** • **MITRE ATT&CK** • **Log analysis** • **SIEM operations**
 
-### Systems & Environments
-- Linux (Kali, Ubuntu)
-- Windows Environments
-- Bash Scripting (Basic)
-- Python (Security Automation – Learning Phase)
+### Environments
+**Kali Linux** • **Windows Server** • **VMware** • **Virtualbox** • **Git/GitHub**
 
 ---
 
-## Active Project Pipeline (2026 Build Plan)
+## 🚀 Current Focus: 90-Day Build Plan
 
-The following projects are currently being developed and will be published progressively:
+**Goal:** Ship 10+ AI-powered cybersecurity tools while documenting everything publicly.
 
-### 1. Active Directory Home Lab
-- Domain Controller setup
-- User & Group misconfiguration
-- Kerberoasting simulation
-- Pass-the-Hash attacks
-- BloodHound enumeration
-- Defensive detection mapping
+**Progress:** Week 2 of 12 complete  
+**Roadmap:** [ai-cybersecurity-journey](https://github.com/Shaheer-Cybersec/ai-cybersecurity-journey)
 
-### 2. API Security Testing Framework
-- Custom API attack checklist
-- Broken Object Level Authorization testing
-- JWT exploitation
-- Rate-limit bypass scenarios
-- Automated API recon script (Python-based)
+**Why this combination matters:**
+- Traditional security tools are reactive → AI enables proactive threat hunting
+- SOC teams drowning in logs → LLMs provide instant analysis
+- Manual pentesting is slow → AI accelerates reconnaissance
+- Most security professionals ignore AI → competitive advantage
 
-### 3. SOC Detection Lab
-- Simulated attack logs
-- Brute-force detection rules
-- PowerShell attack detection
-- Suspicious lateral movement patterns
-- MITRE ATT&CK mapping documentation
-
-### 4. Web Application Pentesting Repository
-- Full structured methodology
-- Recon → Exploitation → Reporting
-- Custom writeups (No spoilers)
-- Burp-based attack flow documentation
-
-### 5. Python for Offensive Security Toolkit
-- Port scanner
-- Subdomain enumerator
-- Log parser
-- Brute force simulation script
-
-### 6. Red Team Notes Repository
-- Privilege Escalation Cheatsheets
-- Windows & Linux escalation paths
-- Payload crafting techniques
-- Reverse shell variations
-- AV evasion fundamentals (educational)
+**Building in public.** Weekly updates across all platforms.
 
 ---
 
-## Methodology Approach
+## 📬 Let's Connect
 
-- Follow structured attack lifecycle
-- Map findings to CVE & CWE where applicable
-- Align techniques with MITRE ATT&CK framework
-- Emphasize reproducibility in lab documentation
-- Maintain technical clarity in reporting
+**Seeking:** Security Analyst | Penetration Tester | AI Security Engineer roles  
+**Work Mode:** Remote preferred | Rawalpindi/Islamabad available  
+**Status:** Preparing for MSc Cyber Security in UK
 
----
-
-## Platforms
-
-TryHackMe Progress:
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active%20Red%20Team%20Path-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cicada664)
-
----
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-cicada664-111927?logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/cicada664)
-## Connect
-
-LinkedIn:
-https://www.linkedin.com/in/shaheer-hussain-ch-2906601a0/
-
-Email:
-Shaheerch6@gmail.com
+📧 **Email:** shaheersec6@gmail.com  
+🔗 **All platforms:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)  
+💼 **LinkedIn:** [Shaheer Hussain](https://www.linkedin.com/in/shaheer-hussain-ch-2906601a0/)
 
 ---
 
-## Current Focus
+## 📊 GitHub Activity
 
-- Advancing Active Directory exploitation
-- Strengthening detection engineering fundamentals
-- Improving Python for automation
-- Building publicly documented security labs
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaheer-Cybersec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-Cybersec&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-Cybersec&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-“Security is not theory. It is practice, validation, and controlled failure.”
+**Cybersecurity Analyst & AI Developer**  
+Shipping: Multi-agent threat intelligence system (Week 3) | Next: Automated incident response (Week 4)
