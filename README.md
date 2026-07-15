@@ -134,7 +134,6 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 
 **Goal:** Ship 10+ AI-powered cybersecurity tools while documenting everything publicly.
 
-**Progress:** Week 2 of 12 complete  
 **Roadmap:** [ai-cybersecurity-journey](https://github.com/Shaheer-Cybersec/ai-cybersecurity-journey)
 
 **Why this combination matters:**
@@ -151,7 +150,7 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 
 **Seeking:** Security Analyst | Penetration Tester | AI Security Engineer roles  
 **Work Mode:** Remote preferred | Rawalpindi/Islamabad available  
-**Status:** Preparing for MSc Cyber Security in UK
+
 
 📧 **Email:** shaheersec6@gmail.com  
 🔗 **All platforms:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)  
