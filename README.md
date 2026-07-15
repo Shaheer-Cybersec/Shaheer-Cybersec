@@ -5,14 +5,14 @@
 Building AI-powered security tools while practicing penetration testing and threat detection. Currently executing a [90-day public build plan](https://github.com/Shaheer-Cybersec/ai-cybersecurity-journey) to ship 10+ projects at the intersection of both disciplines.
 
 🔗 **All platforms:** [linktr.ee/shaheersec](https://linktr.ee/shaheersec)  
-🎯 **TryHackMe:** Top 5% | 110+ rooms | 16 badges  
+🎯 **TryHackMe:** Top 5% | 112 rooms | 16 badges  
 📍 **Based in:**  Pakistan | Open to remote work
 
 ---
 
 ## 🤖 AI Security Tools
 
-### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) — Week 2 Project
+### [AI Log Analyzer](https://github.com/Shaheer-Cybersec/ai-log-analyzer-langchain) 
 **LangChain • Ollama (Llama 3.1) • 100% Local**
 
 Query security logs in natural language. Ask "Show failed SSH attempts from China in last hour" and get instant threat analysis. Built for SOC teams who need fast log triage without cloud dependencies.
@@ -32,7 +32,7 @@ Query security logs in natural language. Ask "Show failed SSH attempts from Chin
 
 ---
 
-### [Security News Aggregator](https://github.com/Shaheer-Cybersec/security-news-aggregator-n8n) — Week 1 Project
+### [Security News Aggregator](https://github.com/Shaheer-Cybersec/security-news-aggregator-n8n) 
 **n8n • CISA KEV API • Slack Integration**
 
 Automated CISA Known Exploited Vulnerabilities monitoring. Pulls CVEs by severity, filters noise, delivers actionable intel to Slack. Set it and forget it.
@@ -85,7 +85,7 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 
 ## 💼 Professional Background
 
-**6-7 years practical cybersecurity experience:**
+**Cybersecurity since 2018 · 2 years professional (SOC + Web App VAPT)**
 
 - **Cybersecurity Analyst/Pentesting Intern** — Sybrid (Lakson Group)  
   Vulnerability assessments, penetration testing, security documentation
@@ -109,7 +109,7 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 - eLearnSecurity Junior Penetration Tester (eJPT)
 
 **Training Platforms:**
-- **TryHackMe:** Top 5% global ranking | 110+ rooms completed | Red Team learning path
+- **TryHackMe:** Top 5% global ranking | 112 rooms completed | Red Team learning path
 - **HackTheBox:** Active offensive security path
 
 ---
@@ -142,7 +142,7 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 - Manual pentesting is slow → AI accelerates reconnaissance
 - Most security professionals ignore AI → competitive advantage
 
-**Building in public.** Weekly updates across all platforms.
+**Building in public.** 
 
 ---
 
@@ -169,4 +169,4 @@ Practicing reconnaissance, scanning, and exploitation techniques in controlled e
 ---
 
 **Cybersecurity Analyst & AI Developer**  
-Shipping: Multi-agent threat intelligence system (Week 3) | Next: Automated incident response (Week 4)
+
